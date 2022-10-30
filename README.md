@@ -1,2 +1,0 @@
-# hermit-mdu
-Hello
